@@ -2,6 +2,7 @@
 
 |DD/MM/YYYY|Event|Topic|Location|Downloads|
 |---|---|---|---|---|
+|05/06/2023|[HelsinkiOS - WWDC Keynote Watch Party](https://www.meetup.com/helsinkios-mac-and-ios-developers/events/292970480/)|Advanced Keychain Use-Cases|[Helsinki, 🇫🇮](https://goo.gl/maps/A9DpFRbfsDMKpvmS6)|[PDF](https://github.com/richardtop/Speaking/files/11713469/Keychain.pdf), [Keynote](https://github.com/richardtop/Speaking/files/11713468/Keychain.key.zip)
 |08/02/2023|Intro to Swift and Xcode - Live Programming at Hive Helsinki|Intro to Swift and Xcode - Live Programming|[Helsinki, 🇫🇮](https://goo.gl/maps/A9DpFRbfsDMKpvmS6)|[YouTube](https://www.youtube.com/watch?v=krIfO3s3ZrM), [CalendarApp](https://github.com/richardtop/CalendarApp)
 |24/11/2022|[November event - presentations, socialising & networking @ Helsinki iOS](https://www.meetup.com/helsinkios-mac-and-ios-developers/events/289326034/)|SwiftUI at Scale|[Helsinki, 🇫🇮](https://goo.gl/maps/A9DpFRbfsDMKpvmS6)|[PDF](https://github.com/richardtop/Speaking/files/10096304/SwiftUI_at_Scale.pdf), [Keynote](https://github.com/richardtop/Speaking/files/10096308/SwiftUI_at_Scale.key.zip), [YouTube](https://youtu.be/DlE4B2daa_0)
 |07/05/2020|Type Theory seminar, University of Helsinki (Online event)|Swift & it's Type System.|[Helsinki, 🇫🇮](https://goo.gl/maps/A9DpFRbfsDMKpvmS6)|[PDF](https://github.com/richardtop/Speaking/files/4871915/Swift.Type.System.pdf), [Keynote](https://github.com/richardtop/Speaking/files/4871913/Swift.Type.System.key.zip), [YouTube](https://www.youtube.com/watch?v=-61sV7wA7rw)|
