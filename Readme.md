@@ -1,7 +1,8 @@
 # Public Talks by [Richard Topchii](https://github.com/richardtop/)
 
-|DD/MM/YYYY|Event|Topic|Location|Downloads|
+|DD/MM/YYYY|Event|Topic|Location|Links|
 |---|---|---|---|---|
+|07/10/2026|[next app devCon 2026](https://www.nextappcon.com/)|Swift Charts Supercharged: Programming advanced interactive charts|[Berlin, 🇩🇪](https://maps.app.goo.gl/mJDJnKva7s7hyx7P7)|[PDF](#), [YouTube](https://www.youtube.com/watch?v=cnJpshc88O8)|
 |20/05/2026|[Swift Craft](https://swiftcraft.uk/)|Keychain Unlocked: Mastering Advanced Security for Smarter, Safer Apps|[Folkestone, 🇬🇧](https://maps.app.goo.gl/vc9PmANjmNhHkPh87)|[PDF](https://github.com/user-attachments/files/28564512/Keychain_SwiftCraft_2026.pdf), [Keynote](https://github.com/user-attachments/files/28564436/Keychain_SwiftCraft_2026.key.zip)|
 |07/10/2025|[SwiftLeeds](https://swiftleeds.co.uk/)|Keychain Unlocked: Mastering Advanced Security for Smarter, Safer Apps|[Leeds, 🇬🇧](https://maps.app.goo.gl/J6tB89X9ZSjG8DgU7)|[PDF](https://github.com/user-attachments/files/22755192/Keychain_leeds_2025.pdf), [Keynote](https://github.com/user-attachments/files/22755251/Keychain_leeds_2025.key.zip), [YouTube](https://www.youtube.com/watch?v=v-TvppbEjmE), [YouTube (SwiftLeeds)](https://www.youtube.com/watch?v=K-N8pcopI-o)|
 |16/04/2025|[HelsinkiOS - April meeting](https://www.meetup.com/helsinkios-mac-and-ios-developers/events/306972672/)|Keychain Unlocked: Mastering Advanced Security for Smarter, Safer Apps|[Helsinki, 🇫🇮](https://goo.gl/maps/A9DpFRbfsDMKpvmS6)| [PDF](https://github.com/user-attachments/files/19922716/Keychain_Unlocked_Richard_Topchii.pdf), [Keynote](https://github.com/user-attachments/files/19922719/Keychain_Unlocked_Richard_Topchii.key.zip), [YouTube](https://www.youtube.com/watch?v=zQDfNc5cjUI), [Q&A](https://www.youtube.com/watch?v=wzPBmWbxm68)
